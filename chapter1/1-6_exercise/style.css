@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.img_colmun {
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+.img_colmun.num1 {
+  background-image: url(img/box1.jpg);
+}
+
+.img_colmun.num2 {
+  background-image: url(img/box2.jpg);
+}
+
+.img_colmun.num3 {
+  background-image: url(img/box3.jpg);
+}
+
+.img_colmun.num4 {
+  background-image: url(img/box4.jpg);
+}
